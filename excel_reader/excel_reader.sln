@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel_reader", "excel_reader\excel_reader.csproj", "{7BD81431-6180-4FA5-8407-8AC692C1813D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD81431-6180-4FA5-8407-8AC692C1813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD81431-6180-4FA5-8407-8AC692C1813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD81431-6180-4FA5-8407-8AC692C1813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD81431-6180-4FA5-8407-8AC692C1813D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BED31F-6572-4834-88F3-AAB8B4E7EA15}
+	EndGlobalSection
+EndGlobal

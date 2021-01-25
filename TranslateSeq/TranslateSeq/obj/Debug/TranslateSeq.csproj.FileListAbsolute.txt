@@ -1,0 +1,9 @@
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\bin\Debug\TranslateSeq.dll.config
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\bin\Debug\TranslateSeq.dll
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\bin\Debug\TranslateSeq.pdb
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\obj\Debug\TranslateSeq.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\obj\Debug\TranslateSeq.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\obj\Debug\TranslateSeq.dll
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\obj\Debug\TranslateSeq.pdb
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\bin\Debug\Bio.Core.dll
+C:\Users\mccv9\source\repos\TranslateSeq\TranslateSeq\obj\Debug\TranslateSeq.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\bin\Debug\PeopleForm.exe.config
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\bin\Debug\PeopleForm.exe
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\bin\Debug\PeopleForm.pdb
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.MainForm.resources
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.Properties.Resources.resources
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.exe
+C:\Users\mccv9\source\repos\PeopleForm\PeopleForm\obj\Debug\PeopleForm.pdb

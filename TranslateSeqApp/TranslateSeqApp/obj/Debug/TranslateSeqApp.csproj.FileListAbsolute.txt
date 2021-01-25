@@ -1,0 +1,10 @@
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\bin\Debug\TranslateSeqApp.exe.config
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\bin\Debug\TranslateSeqApp.exe
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\bin\Debug\TranslateSeqApp.pdb
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.Form1.resources
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.Properties.Resources.resources
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.exe
+C:\Users\mccv9\source\repos\TranslateSeqApp\TranslateSeqApp\obj\Debug\TranslateSeqApp.pdb

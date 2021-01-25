@@ -1,0 +1,10 @@
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\bin\Debug\image_manipulation.exe.config
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\bin\Debug\image_manipulation.exe
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\bin\Debug\image_manipulation.pdb
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.Form1.resources
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.Properties.Resources.resources
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.exe
+C:\Users\mccv9\source\repos\image_manipulation\image_manipulation\obj\Debug\image_manipulation.pdb

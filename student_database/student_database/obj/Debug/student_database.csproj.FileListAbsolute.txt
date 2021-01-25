@@ -1,0 +1,12 @@
+C:\Users\mccv9\source\repos\student_database\student_database\bin\Debug\student_database.exe.config
+C:\Users\mccv9\source\repos\student_database\student_database\bin\Debug\student_database.exe
+C:\Users\mccv9\source\repos\student_database\student_database\bin\Debug\student_database.pdb
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.Properties.Resources.resources
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.exe
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.pdb
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.Add.resources
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.MainWindow.resources
+C:\Users\mccv9\source\repos\student_database\student_database\obj\Debug\student_database.Search.resources

@@ -1,0 +1,14 @@
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\bin\Debug\pc_shop.exe.config
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\bin\Debug\pc_shop.exe
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\bin\Debug\pc_shop.pdb
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.MainWindow.resources
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.Properties.Resources.resources
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.exe
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.pdb
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.NewMonitor.resources
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.NewComputer.resources
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.UpdateCPU.resources
+C:\Users\mccv9\source\repos\pc_shop\pc_shop\obj\Debug\pc_shop.UpdateMonitor.resources

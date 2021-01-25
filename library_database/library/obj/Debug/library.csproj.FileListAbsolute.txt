@@ -1,0 +1,50 @@
+C:\Users\mccv9\source\repos\library\library\bin\Debug\library.exe.config
+C:\Users\mccv9\source\repos\library\library\bin\Debug\library.exe
+C:\Users\mccv9\source\repos\library\library\bin\Debug\library.pdb
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.exe
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.pdb
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.MainWindow.resources
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.BooksInfo.resources
+C:\Users\mccv9\source\repos\library\library\obj\Debug\library.ReadersInfo.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.BooksInfo.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.MainWindow.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.ReadersInfo.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.exe
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.pdb
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\library.exe.config
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\library.exe
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\library.pdb
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\EntityFramework.dll
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\EntityFramework.xml
+C:\Users\mccv9\source\repos\library — kopia\library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.csproj.CopyComplete
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.AddReader.resources
+C:\Users\mccv9\source\repos\library — kopia\library\obj\Debug\library.AddBook.resources
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\library.exe.config
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\library.exe
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\library.pdb
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\EntityFramework.dll
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\EntityFramework.xml
+C:\Users\mccv9\source\repos\library_database\library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.AddBook.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.AddReader.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.BooksInfo.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.MainWindow.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.ReadersInfo.resources
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.csproj.CopyComplete
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.exe
+C:\Users\mccv9\source\repos\library_database\library\obj\Debug\library.pdb
